@@ -12,9 +12,7 @@ export function HeroSection() {
 
         {/* Logo */}
         <div className="flex justify-center mb-6">
-          <div className="w-16 h-16 md:w-20 md:h-20 bg-orange rounded-2xl flex items-center justify-center text-white font-black text-2xl md:text-3xl tracking-tight">
-            OK
-          </div>
+          <img src="/Opakebab.png" alt="Opa Kebab" className="w-16 h-16 md:w-20 md:h-20 rounded-full object-cover" />
         </div>
 
         {/* Brand */}
